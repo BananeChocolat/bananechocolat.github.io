@@ -5,14 +5,11 @@
 	margin: 0;
 	position: relative;
 	overflow: hidden;
+	color: #fff;
 }
 
 
 @media (orientation: landscape) {
-
-	*{
-		color: #fff;
-	}
 
 	body{
 		background-image: url(images/slide01.jpg);
@@ -32,10 +29,6 @@
 
 @media (orientation:portrait) {
 
-	*{
-		color: rgb(212, 212, 212);
-	}
-	
 	body{
 		background-image: url(images/slide02.png);
 	}
