@@ -4,7 +4,8 @@
 	padding: 0;
 	margin: 0;
 	position: relative;
-	color: #fff;
+	color: rgb(180, 180, 180);
+	overflow: hidden;
 }
 
 
