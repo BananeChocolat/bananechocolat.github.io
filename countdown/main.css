@@ -17,7 +17,6 @@
 
 	.inner{
 		border-radius: 50px;
-		backdrop-filter: blur(10px);
 		width: 50vw;
 		position: fixed;
 		top: 50%;
